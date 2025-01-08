@@ -64,20 +64,7 @@ By uncovering these insights, businesses can optimize their strategies and drive
 
 ---
 
-## Steps to Access the Dashboard
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/tableau-dashboard-assignment.git
-   ```
-
-2. Open the Tableau Workbook:
-   - Download and open the `.twbx` file using Tableau Desktop.
-
-3. Explore the Dashboard:
-   - Use interactive filters and visualizations to analyze the data.
-
----
 
 ## Insights Gained
 
